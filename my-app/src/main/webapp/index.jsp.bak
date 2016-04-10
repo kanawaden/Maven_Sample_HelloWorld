@@ -1,0 +1,22 @@
+<html>
+<link href='http://fonts.googleapis.com/css?family=Finger+Paint' rel='stylesheet' type='text/css'>
+
+<style>
+    h2 {
+        font-family: 'Aperçu', cursive;
+    }
+</style>
+
+<body>
+<h2>Spring 2016 - UML Cloud Computing Course</h2>
+
+<p>
+    Hello Everyone, Spring 2016 - UML Cloud computing course was an awesome experience! All the study materials provided by Prof. Bell were very informative. The exercises helped a lot to gain the hands on experience of different cloud technologies.
+
+<p>
+    This is a Java sample controller. Please click <a href="./ask">here</a>.
+</p>
+
+
+</body>
+</html>
